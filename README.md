@@ -10,9 +10,17 @@ Laravel WebSockets package is developed by Marcel Pociot and Freek Van der Herte
 # Using:
 
 PHP Laravel
+
+
 Vue.js
+
+
 Laravel WebSockets
+
+
 Laravel Echo
+
+
 
 -----------------------------
 
